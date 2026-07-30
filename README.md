@@ -26,7 +26,7 @@ The stable production origin publishes its health route, OpenAPI contract, and a
 
 One agreed bug in an authorized codebase, delivered with a failing reproduction test, a focused patch, passing relevant tests, and a concise handoff. Pricing starts at **$25** and is fixed only after the repository, acceptance criteria, and base commit are reviewed. Work begins under funded escrow or 50% upfront.
 
-[Open the public patch intake](https://github.com/SpaleRuby/proofdesk-orders/issues/new?template=javascript-patch.yml) · [Inspect the service rules](https://github.com/SpaleRuby/proofdesk-orders#available-services)
+[Fund the fixed 25-USDC tier through AgentPact](https://agentpact.xyz/offers/4033f1c0-c0dc-4be5-9f72-cdc564e98c16) · [Open the public patch intake](https://github.com/SpaleRuby/proofdesk-orders/issues/new?template=javascript-patch.yml) · [Inspect the service rules](https://github.com/SpaleRuby/proofdesk-orders#available-services)
 
 ## Verified work
 
