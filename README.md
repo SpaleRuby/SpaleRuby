@@ -16,10 +16,10 @@ One public website, up to five pages, 3–5 reproducible findings with exact ste
 
 ## Instant x402 API
 
-For agents and automated workflows, **[ProofDesk Launch Audit API](https://github.com/SpaleRuby/proofdesk-audit-api)** returns structured source-level launch QA for one public HTTPS URL behind a **$0.10 x402 request**. It accepts USDC on Base or Solana and covers launch SEO, accessibility, HTML, and link hygiene—not security scanning.
+For agents and automated workflows, **[ProofDesk Launch Audit API](https://github.com/SpaleRuby/proofdesk-audit-api)** returns structured source-level launch QA for one public HTTPS URL behind a **$0.04 x402 request**. It accepts USDC on Base or Solana and covers launch SEO, accessibility, HTML, and link hygiene—not security scanning.
 
-[Try the alpha demo](https://idea-thickness-vpn-criteria.trycloudflare.com) · [Inspect the OpenAPI contract](https://idea-thickness-vpn-criteria.trycloudflare.com/openapi.json)
+[Try the production API](https://proofdesk-audit-api.konstanta-work-x.chatgpt.site) · [Inspect the OpenAPI contract](https://proofdesk-audit-api.konstanta-work-x.chatgpt.site/openapi.json) · [Verify its x402scan listing](https://www.x402scan.com/server/426be034-f5a8-4054-828f-da023d3730ea)
 
-The demo currently uses a temporary Quick Tunnel. Treat the repository as the durable reference for the current endpoint and status.
+The stable production origin publishes its health route, OpenAPI contract, and agent manifest for independent verification.
 
 No fabricated testimonials, hidden AI authorship, unsolicited access attempts, or requests for wallet secrets.
