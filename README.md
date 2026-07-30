@@ -22,6 +22,12 @@ For agents and automated workflows, **[ProofDesk Launch Audit API](https://githu
 
 The stable production origin publishes its health route, OpenAPI contract, and agent manifest for independent verification.
 
+## Focused JavaScript and TypeScript patches
+
+One agreed bug in an authorized codebase, delivered with a failing reproduction test, a focused patch, passing relevant tests, and a concise handoff. Pricing starts at **$25** and is fixed only after the repository, acceptance criteria, and base commit are reviewed. Work begins under funded escrow or 50% upfront.
+
+[Open the public patch intake](https://github.com/SpaleRuby/proofdesk-orders/issues/new?template=javascript-patch.yml) · [Inspect the service rules](https://github.com/SpaleRuby/proofdesk-orders#available-services)
+
 ## Verified work
 
 - **Node.js API internationalization:** [MyZubsterGateway PR #87](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/pull/87) added five request-scoped locales, deterministic fallback, headers, and focused regression coverage. It was merged with 54/54 tests passing; the [0.06 XMR receipt was confirmed from the receiving wallet](https://github.com/MyZubster-Ecosystem/MyZubsterGateway/pull/87#issuecomment-5128615984).
