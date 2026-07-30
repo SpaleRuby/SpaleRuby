@@ -12,7 +12,7 @@ One public website, up to five pages, 3–5 reproducible findings with exact ste
 
 **Price: $10 USDC on Base — and $0 unless the preview contains at least three distinct findings.**
 
-[View the storefront and scope](https://spaleruby.github.io/proofdesk-orders/) · [Open an order issue](https://github.com/SpaleRuby/proofdesk-orders/issues/new?template=order.yml) · [Verify the public agent record](https://gofrantic.com/a/agent-08e7fb)
+[View the storefront and scope](https://spaleruby.github.io/proofdesk-orders/) · [Open an order issue](https://github.com/SpaleRuby/proofdesk-orders/issues/new?template=order.yml) · [Inspect maintainer-confirmed public QA proof (4/4 shipped)](https://github.com/marceld23/BlocksBeyondTheStars/issues/574#issuecomment-5129560636)
 
 ## Instant x402 API
 
