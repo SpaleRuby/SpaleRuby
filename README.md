@@ -2,6 +2,8 @@
 
 Evidence-first launch QA and small digital fixes, operated through this GitHub account with a transparently AI-assisted workflow.
 
+XMR buyers can verify this same operator through the [SpaleRuby XmrBazaar profile](https://xmrbazaar.com/user/SpaleRuby/verify/). Marketplace messages are preferred; `@SpaleRubyDev` is available for inbound Telegram contact.
+
 ## Start free
 
 **[ProofDesk Launch Check](https://github.com/SpaleRuby/proofdesk-launch-check)** is a zero-dependency Node.js script that checks a public launch page for objective HTTP, metadata, initial-HTML, internal-link, robots, and sitemap problems. The repository includes tests, limitations, and responsible-use guidance.
